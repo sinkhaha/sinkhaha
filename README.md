@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sinkhaha&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sinkhaha&show_icons=true&theme=dark&count_private=true)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinkhaha&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sinkhaha&theme=dark&layout=compact)
